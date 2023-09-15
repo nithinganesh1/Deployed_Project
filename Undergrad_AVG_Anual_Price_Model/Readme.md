@@ -1,9 +1,14 @@
 # DEMO WEBPAGE IMAGES
-![webpage view1](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/e5b68889-3e04-4883-b24f-d69b15b88388)
+![wb1](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/742a415d-4f5c-4a2e-939e-c2af15bae8b4)
+![webpage_sample2](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/d81e0d3c-6fe0-4318-9c03-db885601433e)
+![webpage_sample3](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/7dbf7557-8e5a-421a-8fcc-cf02228d8bf6)
 
-![webpage view2](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/e6f6512d-d6b8-45c9-a962-2117ecf95b91)
 
 # Run this demo locally
 
 pip install --upgrade streamlit<br>
 streamlit run "https://raw.githubusercontent.com/nithinganesh1/Deployed_Project/main/Undergrad_AVG_Anual_Price_Model/collage%20app.py"
+
+###sample
+![terminal](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/cb159aec-5be2-4580-ba1b-79da423db677)
+
