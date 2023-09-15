@@ -4,7 +4,7 @@
 ![webpage_sample3](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/7dbf7557-8e5a-421a-8fcc-cf02228d8bf6)
 
 
-# Run this demo locally
+# Run this demo in locally
 
 pip install --upgrade streamlit<br>
 streamlit run "https://raw.githubusercontent.com/nithinganesh1/Deployed_Project/main/Undergrad_AVG_Anual_Price_Model/collage%20app.py"
