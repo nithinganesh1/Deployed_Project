@@ -9,7 +9,6 @@ import os
 import pandas as pd
 import pickle
 import requests
-import sklearn
 import streamlit as st
 
 st.set_page_config(layout="wide", page_title="collage_avg_price", page_icon="🎓")
