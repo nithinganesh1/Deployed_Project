@@ -2,7 +2,8 @@
 This app uses machine learning to predict the price of a flight based on various factors, such as the departure and arrival airports, the time of the flight, and stops...
 
 ### app link :
-https://flight-ticket-price-prediction.streamlit.app/
+https://flight-ticket-price-prediction.streamlit.app/ 
+---
 also you can run this app usign your terminal run bellow code on your terminal
 pip install --upgrade streamlit streamlit run https://raw.githubusercontent.com/nithinganesh1/Deployed_Project/main/Flight_Ticket_Price_Prediction/app.py
 
