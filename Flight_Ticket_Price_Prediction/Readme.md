@@ -6,7 +6,8 @@ https://flight-ticket-price-prediction.streamlit.app/
 ---
 also you can run this app usign your terminal run bellow code on your terminal
 
-pip install --upgrade streamlit streamlit run https://raw.githubusercontent.com/nithinganesh1/Deployed_Project/main/Flight_Ticket_Price_Prediction/app.py
+pip install --upgrade streamlit
+streamlit run https://raw.githubusercontent.com/nithinganesh1/Deployed_Project/main/Flight_Ticket_Price_Prediction/app.py
 
 
 To use the app, simply enter the following information:
