@@ -3,6 +3,9 @@ This app uses machine learning to predict the price of a flight based on various
 
 ### app link :
 https://flight-ticket-price-prediction.streamlit.app/
+also you can run this app usign your terminal run bellow code on your terminal
+pip install --upgrade streamlit streamlit run https://raw.githubusercontent.com/nithinganesh1/Deployed_Project/main/Flight_Ticket_Price_Prediction/app.py
+
 
 To use the app, simply enter the following information:
 
@@ -26,5 +29,3 @@ Click the "Predict" button to generate a prediction of the flight price.
 
 ## more:
 I used data visualization and machine learning to predict the price of a flight ticket. You can find all the calculations and visualizations in the attached IPynb file.
-
-
