@@ -24,5 +24,7 @@ Click the "Predict" button to generate a prediction of the flight price.
 ![flight2](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/1b288b9e-5e8c-4d24-aae2-fea7a5cd7cdb)
 ![flight3](https://github.com/nithinganesh1/Deployed_Project/assets/122164879/ead54a26-f613-4b48-9db1-7c71c1f800d7)
 
+## more:
+I used data visualization and machine learning to predict the price of a flight ticket. You can find all the calculations and visualizations in the attached IPynb file.
 
 
